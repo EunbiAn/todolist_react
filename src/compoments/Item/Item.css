@@ -1,0 +1,33 @@
+
+input{
+  background-color: white;
+  border: none;
+}
+input.deleteLine{
+  margin-top:1%;
+  margin-left: 2%;
+  width:60%;
+  float: left;
+  text-decoration:  line-through;
+  }
+  input.form-check-input{
+    margin-top:2%;
+  }
+  div.form-check{
+    width:100%;
+  }
+  input.labelInput{
+    margin-left: 2%;
+    margin-top:1%;
+    width:60%;
+    float: left;
+  }
+.btn-outline-success{
+  width: auto;
+  height: auto;
+  margin:2px;
+}
+
+div.btnDiv{
+  float: right;
+}

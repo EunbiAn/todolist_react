@@ -1,0 +1,22 @@
+.background {
+    position:absolute;
+    background-color:#f1fff1f0;
+    width:100vw;
+    height:100vh;
+    margin:0px;
+    padding: 0px;
+    z-index: -1;
+   
+  }
+.container{
+    
+    width: 45%;
+    padding:3% 5%;  
+    margin-top: 3%;
+    margin-left:27%;
+    height:88vh;
+    border-radius: 2%;
+    box-shadow: 4px 4px 6px rgba(188, 188, 188, 0.764);
+    background-color: #FFFFFF;
+  }
+  
